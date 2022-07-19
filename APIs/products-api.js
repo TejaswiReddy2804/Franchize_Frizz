@@ -64,7 +64,7 @@ productApi.get("/getproducts/:franchisename", expressErrorHandler(async (req, re
     res.send({ message: merchList })
 
 }))
-ki
+
 
 
 //export
